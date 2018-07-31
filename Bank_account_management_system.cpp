@@ -3,6 +3,7 @@
 It is the simple object oriented code for bank account management system and it has all its essential features
 like balance enquiry, deposit, withdrawal, changing pin number or enabling net banking transactions.
 It can be improved or made versatile by adding multiple objects and accounts.
+The defaut pin number for this code is 1234
 */
 #include<iostream>
 #include<stdlib.h>
